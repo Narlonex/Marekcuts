@@ -1,0 +1,34 @@
+# ---------------------------------------------------------------------------
+# MAREK CUTS — ignore rules
+# ---------------------------------------------------------------------------
+
+# GENERATED BUILD OUTPUT. Recreate it any time with:  python build.py
+# (If you would rather commit the built site instead of letting Render build it,
+#  delete the dist/ line below — see "Deploying to Render" in README.md.)
+dist/
+
+# Download cache for fonts and photography, so rebuilds are fast and offline-safe
+.cache/
+
+# Local server log
+.serve.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.Python
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node tooling, if you ever add any
+node_modules/
+npm-debug.log*

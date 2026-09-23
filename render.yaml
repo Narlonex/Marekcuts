@@ -1,0 +1,45 @@
+# Render Blueprint for Marek Cuts.
+#
+# This describes a STATIC SITE: Render runs the Python build once, then serves
+# the generated files from dist/ over its CDN. No web service, no Python server,
+# no database.
+#
+# Deploy: Render Dashboard -> New -> Blueprint -> pick this repository.
+# Manual setup works too; use the same build command and publish directory.
+
+services:
+  - type: web
+    name: marek-cuts
+    runtime: static
+    branch: main
+    buildCommand: python build.py
+    staticPublishPath: ./dist
+    envVars:
+      # Keep the build reproducible and quiet in CI.
+      - key: PYTHON_VERSION
+        value: "3.12.6"
+      - key: PYTHONUNBUFFERED
+        value: "1"
+    headers:
+      # Long-lived caching for hashed-by-content assets.
+      - path: /assets/fonts/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=604800
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+    routes:
+      # Serve the legal pages from their real paths.
+      - type: rewrite
+        source: /legal/*
+        destination: /legal/*
+      # Unknown paths fall back to the single-page site.
+      - type: rewrite
+        source: /*
+        destination: /index.html
