@@ -1,0 +1,308 @@
+{
+  "_comment": "GALLERY, HERO AND ABOUT IMAGERY. 'sources' is an ordered list of candidate URLs - build.py downloads the first one that works, so a dead URL never breaks the build. All sources are Unsplash/Pexels (free for commercial use); see README for the attribution table. Replace 'sources' with your own photos when you have real shop photography - keep your files in assets/ instead and set 'local' to their path.",
+  "qualities": {
+    "download": 78
+  },
+  "entries": [
+    {
+      "id": "hero",
+      "role": "hero",
+      "span": "hero",
+      "ratio": [
+        16,
+        9
+      ],
+      "alt": {
+        "sk": "Barber pri práci v tmavom, atmosférickom barber shope",
+        "en": "Barber at work in a dark, atmospheric barber shop"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1813271/pexels-photo-1813271.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "role": "about",
+      "span": "about",
+      "ratio": [
+        4,
+        5
+      ],
+      "alt": {
+        "sk": "Detail interiéru barber shopu",
+        "en": "Detail of the barber shop interior"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1600948836101-f9ffda59d250"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519500099198-fd81846b8f03"
+        },
+        {
+          "url": "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g1",
+      "role": "gallery",
+      "span": "tall",
+      "ratio": [
+        3,
+        4
+      ],
+      "alt": {
+        "sk": "Barber strihá klienta strojčekom",
+        "en": "Barber cutting a client's hair with clippers"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1622286342621-4bd786c2447c"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1319460/pexels-photo-1319460.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "role": "gallery",
+      "span": "normal",
+      "ratio": [
+        1,
+        1
+      ],
+      "alt": {
+        "sk": "Hotový fade strih zboku",
+        "en": "Finished fade haircut seen from the side"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1599351431202-1e0f0137899a"
+        },
+        {
+          "url": "https://images.pexels.com/photos/3992874/pexels-photo-3992874.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "role": "gallery",
+      "span": "wide",
+      "ratio": [
+        16,
+        10
+      ],
+      "alt": {
+        "sk": "Interiér barber shopu s kreslami a zrkadlami",
+        "en": "Barber shop interior with chairs and mirrors"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "role": "gallery",
+      "span": "normal",
+      "ratio": [
+        1,
+        1
+      ],
+      "alt": {
+        "sk": "Barberské náradie – nožnice, hrebene a strojček",
+        "en": "Barber tools – scissors, combs and clippers"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1517832606299-7ae9b720a186"
+        },
+        {
+          "url": "https://images.pexels.com/photos/705255/pexels-photo-705255.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "role": "gallery",
+      "span": "tall",
+      "ratio": [
+        3,
+        4
+      ],
+      "alt": {
+        "sk": "Úprava brady britvou",
+        "en": "Beard grooming with a straight razor"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1596728325488-58c87691e9af"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1453005/pexels-photo-1453005.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "role": "gallery",
+      "span": "normal",
+      "ratio": [
+        1,
+        1
+      ],
+      "alt": {
+        "sk": "Barber upravuje kontúry klientovi",
+        "en": "Barber detailing a client's hairline"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e"
+        },
+        {
+          "url": "https://images.pexels.com/photos/2076930/pexels-photo-2076930.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "role": "gallery",
+      "span": "normal",
+      "ratio": [
+        1,
+        1
+      ],
+      "alt": {
+        "sk": "Strih nožnicami nad hrebeňom",
+        "en": "Scissor-over-comb cutting technique"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1605497788044-5a32c7078486"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1972112/pexels-photo-1972112.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "role": "gallery",
+      "span": "wide",
+      "ratio": [
+        16,
+        10
+      ],
+      "alt": {
+        "sk": "Pracovné miesto barbera s náradím",
+        "en": "Barber's workstation with tools laid out"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1300353/pexels-photo-1300353.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "role": "gallery",
+      "span": "normal",
+      "ratio": [
+        1,
+        1
+      ],
+      "alt": {
+        "sk": "Klient počas finálneho styling",
+        "en": "Client during the final styling"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1634449571010-02389ed0f9b0"
+        },
+        {
+          "url": "https://images.pexels.com/photos/897262/pexels-photo-897262.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "role": "gallery",
+      "span": "tall",
+      "ratio": [
+        3,
+        4
+      ],
+      "alt": {
+        "sk": "Holenie hlavy strojčekom",
+        "en": "Head shave with clippers"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1532710093739-9470acff878f"
+        },
+        {
+          "url": "https://images.pexels.com/photos/1805600/pexels-photo-1805600.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "role": "gallery",
+      "span": "normal",
+      "ratio": [
+        1,
+        1
+      ],
+      "alt": {
+        "sk": "Detail hotového strihu zozadu",
+        "en": "Close-up of a finished haircut from behind"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1512690459411-b9245aed614b"
+        },
+        {
+          "url": "https://images.pexels.com/photos/9376271/pexels-photo-9376271.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "role": "gallery",
+      "span": "normal",
+      "ratio": [
+        1,
+        1
+      ],
+      "alt": {
+        "sk": "Atmosféra barber shopu počas dňa",
+        "en": "The atmosphere of the barber shop during the day"
+      },
+      "sources": [
+        {
+          "url": "https://images.unsplash.com/photo-1493256338651-d82f7acb2b38"
+        },
+        {
+          "url": "https://images.pexels.com/photos/3998419/pexels-photo-3998419.jpeg"
+        }
+      ]
+    }
+  ]
+}

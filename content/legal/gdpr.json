@@ -1,0 +1,182 @@
+{
+  "_comment": "GDPR / PERSONAL DATA PROCESSING TEMPLATE. Replace every [BRACKETED] placeholder and have the final text reviewed by the operator before publication.",
+  "slug": "gdpr",
+  "titleKey": "legal.gdpr",
+  "lastUpdated": "2026-09-23",
+  "intro": {
+    "sk": "Prehľad spracúvania osobných údajov podľa nariadenia Európskeho parlamentu a Rady (EÚ) 2016/679 (GDPR).",
+    "en": "An overview of personal data processing under Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR)."
+  },
+  "sections": [
+    {
+      "id": "controller",
+      "heading": {
+        "sk": "Prevádzkovateľ",
+        "en": "Controller"
+      },
+      "body": [
+        {
+          "sk": "Prevádzkovateľom osobných údajov je [BUSINESS LEGAL NAME], so sídlom [BUSINESS ADDRESS], IČO: [COMPANY ID / ICO], e-mail [EMAIL], telefón [PHONE].",
+          "en": "The controller of personal data is [BUSINESS LEGAL NAME], with its registered office at [BUSINESS ADDRESS], company ID: [COMPANY ID / ICO], email [EMAIL], phone [PHONE]."
+        },
+        {
+          "sk": "Prevádzkovateľom je osoba, ktorá určuje účely a prostriedky spracúvania osobných údajov.",
+          "en": "The controller is the person who determines the purposes and means of the processing of personal data."
+        }
+      ]
+    },
+    {
+      "id": "scope",
+      "heading": {
+        "sk": "Rozsah spracúvania",
+        "en": "Scope of processing"
+      },
+      "body": [
+        {
+          "sk": "Spracúvame len údaje, ktoré potrebujeme na vybavenie rezervácie: meno a priezvisko, e-mail, telefón a nepovinnú poznámku.",
+          "en": "We process only the data we need in order to handle a booking: full name, email, phone and any optional note."
+        },
+        {
+          "sk": "Nepracujeme s citlivými údajmi a nevyžadujeme ich. Ak nám ich sami poskytnete v poznámke, nenesieme za takéto spracúvanie zodpovednosť.",
+          "en": "We do not work with sensitive data and do not ask for it. If you provide it yourself in the note field, we are not responsible for that processing."
+        }
+      ]
+    },
+    {
+      "id": "basis",
+      "heading": {
+        "sk": "Právne základy spracúvania",
+        "en": "Legal bases for processing"
+      },
+      "body": [
+        {
+          "sk": "Súhlas podľa čl. 6 ods. 1 písm. a) GDPR — na základe zaškrtnutia políčka v rezervačnom formulári a na ukladanie nevyhnutných údajov v prehliadači.",
+          "en": "Consent under Art. 6(1)(a) GDPR — based on ticking the box in the booking form and for storing essential data in your browser."
+        },
+        {
+          "sk": "Plnenie zmluvy podľa čl. 6 ods. 1 písm. b) GDPR — ak dôjde k objednaniu služby a jej poskytnutiu.",
+          "en": "Performance of a contract under Art. 6(1)(b) GDPR — where a service is booked and provided."
+        },
+        {
+          "sk": "Oprávnený záujem podľa čl. 6 ods. 1 písm. f) GDPR — na zabezpečenie chodu a bezpečnosti stránky.",
+          "en": "Legitimate interest under Art. 6(1)(f) GDPR — to keep the site running and secure."
+        },
+        {
+          "sk": "Zákonná povinnosť podľa čl. 6 ods. 1 písm. c) GDPR — napríklad účtovné a daňové povinnosti.",
+          "en": "Legal obligation under Art. 6(1)(c) GDPR — for example accounting and tax duties."
+        }
+      ]
+    },
+    {
+      "id": "purposes",
+      "heading": {
+        "sk": "Účely spracúvania",
+        "en": "Purposes of processing"
+      },
+      "body": [
+        {
+          "sk": "Údaje spracúvame na vybavenie a potvrdenie rezervácie, na komunikáciu s vami a na zlepšovanie našich služieb.",
+          "en": "We process the data to handle and confirm your booking, to communicate with you and to improve our services."
+        },
+        {
+          "sk": "Údaje nepoužívame na automatizované profilovanie ani na rozhodovanie s právnymi účinkami.",
+          "en": "We do not use the data for automated profiling or for decision-making with legal effects."
+        }
+      ]
+    },
+    {
+      "id": "recipients",
+      "heading": {
+        "sk": "Príjemcovia údajov",
+        "en": "Recipients of the data"
+      },
+      "body": [
+        {
+          "sk": "Údaje môžu spracúvať poskytovatelia technických služieb, napríklad poskytovateľ hostingu, a to výhradne na základe našich pokynov.",
+          "en": "The data may be processed by providers of technical services, such as our hosting provider, strictly on our instructions."
+        },
+        {
+          "sk": "Zoznam spracovateľov je [PROCESSORS LIST].",
+          "en": "The list of processors is [PROCESSORS LIST]."
+        }
+      ]
+    },
+    {
+      "id": "retention",
+      "heading": {
+        "sk": "Doba uchovávania",
+        "en": "Retention period"
+      },
+      "body": [
+        {
+          "sk": "Rezervačné údaje uchovávame najdlhšie [RETENTION PERIOD] od vybavenia rezervácie, pokiaľ nám zákon neukladá dlhšiu dobu.",
+          "en": "We keep booking data for no longer than [RETENTION PERIOD] from the appointment, unless the law requires a longer period."
+        },
+        {
+          "sk": "Po uplynutí tejto doby údaje vymažeme alebo anonymizujeme.",
+          "en": "After that period we delete or anonymise the data."
+        }
+      ]
+    },
+    {
+      "id": "transfers",
+      "heading": {
+        "sk": "Prenos mimo Európskej únie",
+        "en": "Transfers outside the European Union"
+      },
+      "body": [
+        {
+          "sk": "Údaje primárne spracúvame v rámci Európskej únie. Ak by mal nejaký poskytovateľ sídlo mimo EÚ, zabezpečíme primerané záruky podľa kapitoly V GDPR.",
+          "en": "We primarily process data within the European Union. If a provider were based outside the EU, we would put appropriate safeguards in place under Chapter V GDPR."
+        }
+      ]
+    },
+    {
+      "id": "rights",
+      "heading": {
+        "sk": "Vaše práva",
+        "en": "Your rights"
+      },
+      "body": [
+        {
+          "sk": "Máte právo na prístup k údajom, ich opravu, vymazanie, obmedzenie spracúvania, prenosnosť, právo namietať a právo odvolať súhlas.",
+          "en": "You have the right of access, rectification, erasure, restriction of processing, portability, the right to object and the right to withdraw consent."
+        },
+        {
+          "sk": "Máte tiež právo podať sťažnosť na Úrad na ochranu osobných údajov Slovenskej republiky.",
+          "en": "You also have the right to lodge a complaint with the Office for Personal Data Protection of the Slovak Republic."
+        }
+      ]
+    },
+    {
+      "id": "automated",
+      "heading": {
+        "sk": "Automatizované rozhodovanie",
+        "en": "Automated decision-making"
+      },
+      "body": [
+        {
+          "sk": "Nepoužívame automatizované individuálne rozhodovanie ani profilovanie v zmysle čl. 22 GDPR.",
+          "en": "We do not use automated individual decision-making or profiling within the meaning of Art. 22 GDPR."
+        }
+      ]
+    },
+    {
+      "id": "exercise",
+      "heading": {
+        "sk": "Ako uplatniť svoje práva",
+        "en": "How to exercise your rights"
+      },
+      "body": [
+        {
+          "sk": "Svoju žiadosť pošlite na [EMAIL] alebo nám zavolajte na [PHONE]. Odpovieme najneskôr do jedného mesiaca.",
+          "en": "Send your request to [EMAIL] or call us on [PHONE]. We will reply within one month at the latest."
+        },
+        {
+          "sk": "Toto je šablóna. Skutočný obsah musí pred zverejnením schváliť prevádzkovateľ a odporúčame konzultáciu s právnym poradcom.",
+          "en": "This is a template. The real content must be approved by the operator before publication, and we recommend consulting a legal advisor."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_comment": "DEMO BOOKING AVAILABILITY. This is demo data for the demo booking system - it is NOT the real opening hours. Tune the values below to change what the calendar and time slots offer.",
+  "slotStart": "09:00",
+  "slotEnd": "18:00",
+  "slotStepMinutes": 30,
+  "leadTimeMinutes": 120,
+  "windowDays": 90,
+  "closedWeekdays": [
+    0
+  ],
+  "weekdayBusyRatio": {
+    "6": 0.5
+  },
+  "busyRatio": 0.34,
+  "blackoutDates": [
+    "2026-10-28",
+    "2026-11-17",
+    "2026-12-24",
+    "2026-12-25",
+    "2026-12-26",
+    "2026-12-31",
+    "2027-01-01"
+  ],
+  "seed": 20260923,
+  "explicitUnavailable": {},
+  "_notes": {
+    "closedWeekdays": "JavaScript Date.getDay() numbering: 0=Sunday ... 6=Saturday. [0] = closed on Sunday, matching the Sunday row in hours.json.",
+    "busyRatio": "Fraction of otherwise-free slots hidden to demonstrate unavailable slots (0 = everything free).",
+    "seed": "Seeded pseudo-random generator - the same date always produces the same pattern, so availability is stable across reloads.",
+    "blackoutDates": "ISO dates (YYYY-MM-DD) shown as fully booked.",
+    "leadTimeMinutes": "Slots sooner than this from 'now' are hidden for today."
+  }
+}

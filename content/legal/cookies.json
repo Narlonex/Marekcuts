@@ -1,0 +1,131 @@
+{
+  "_comment": "COOKIE POLICY TEMPLATE. Adjust the categories to match whatever tools you actually deploy, and have the text reviewed before publication.",
+  "slug": "cookies",
+  "titleKey": "legal.cookies",
+  "lastUpdated": "2026-09-23",
+  "intro": {
+    "sk": "Informácie o tom, aké cookies a podobné technológie táto stránka používa a ako môžete svoje nastavenie zmeniť.",
+    "en": "Information about the cookies and similar technologies this site uses and how you can change your settings."
+  },
+  "sections": [
+    {
+      "id": "what",
+      "heading": {
+        "sk": "Čo sú cookies",
+        "en": "What cookies are"
+      },
+      "body": [
+        {
+          "sk": "Cookies sú malé textové súbory, ktoré webová stránka ukladá do vášho prehliadača. Podobne funguje aj lokálne úložisko prehliadača (localStorage).",
+          "en": "Cookies are small text files a website stores in your browser. Browser local storage (localStorage) works in a similar way."
+        },
+        {
+          "sk": "Niektoré sú potrebné na to, aby stránka fungovala. Iné slúžia na meranie návštevnosti alebo reklamu.",
+          "en": "Some are needed for the site to work. Others are used for measuring traffic or for advertising."
+        }
+      ]
+    },
+    {
+      "id": "how",
+      "heading": {
+        "sk": "Ako ich používame",
+        "en": "How we use them"
+      },
+      "body": [
+        {
+          "sk": "Táto stránka používa iba nevyhnutné úložisko: zapamätanie zvoleného jazyka (SK alebo EN), uloženie vášho rozhodnutia o cookies a dočasné uchovanie rozpracovanej rezervácie v rámci jednej relácie.",
+          "en": "This site uses essential storage only: remembering your chosen language (SK or EN), storing your cookie decision and temporarily keeping an unfinished booking for the current session."
+        },
+        {
+          "sk": "Žiadne z týchto údajov neopúšťajú váš prehliadač a nie sú odosielané na náš server.",
+          "en": "None of this data leaves your browser and none of it is sent to our server."
+        }
+      ]
+    },
+    {
+      "id": "categories",
+      "heading": {
+        "sk": "Kategórie cookies",
+        "en": "Cookie categories"
+      },
+      "body": [
+        {
+          "sk": "Nevyhnutné — zabezpečujú základné fungovanie stránky. Sú vždy aktívne a nie je možné ich vypnúť.",
+          "en": "Essential — they keep the site working. They are always active and cannot be switched off."
+        },
+        {
+          "sk": "Analytické — pomáhajú pochopiť, ako sa stránka používa. V súčasnosti nie sú nasadené žiadne analytické nástroje, preto je táto kategória prázdna. Rozhranie je pripravené na ich doplnenie.",
+          "en": "Analytics — they help us understand how the site is used. No analytics tool is currently deployed, so this category is empty. The interface is prepared for one to be added."
+        },
+        {
+          "sk": "Marketingové — slúžia na zobrazovanie relevantnej reklamy. V súčasnosti nie sú nasadené žiadne marketingové nástroje.",
+          "en": "Marketing — used to show relevant advertising. No marketing tools are currently deployed."
+        }
+      ]
+    },
+    {
+      "id": "third",
+      "heading": {
+        "sk": "Služby tretích strán",
+        "en": "Third-party services"
+      },
+      "body": [
+        {
+          "sk": "Stránka samotná nenačítava žiadne skripty tretích strán. Ak do stránky pribudne mapa Google Maps, načíta sa až po kliknutí, pretože Google pri jej načítaní nastavuje vlastné cookies.",
+          "en": "The site itself loads no third-party scripts. If a Google Maps embed is added, it will load only after a click, because Google sets its own cookies when the map loads."
+        },
+        {
+          "sk": "Ak neskôr pribudne analytický nástroj, bude načítaný výhradne po udelení súhlasu v kategórii Analytické.",
+          "en": "If an analytics tool is added later, it will load only after consent has been given in the Analytics category."
+        }
+      ]
+    },
+    {
+      "id": "manage",
+      "heading": {
+        "sk": "Ako zmeniť nastavenie cookies",
+        "en": "How to change your cookie settings"
+      },
+      "body": [
+        {
+          "sk": "Svoje rozhodnutie môžete kedykoľvek zmeniť kliknutím na odkaz Nastavenia cookies v pätičke stránky.",
+          "en": "You can change your decision at any time by clicking the Cookie settings link in the site footer."
+        },
+        {
+          "sk": "Súhlas môžete tiež odvolať vymazaním údajov stránky v nastaveniach prehliadača.",
+          "en": "You can also withdraw consent by clearing this site's data in your browser settings."
+        }
+      ]
+    },
+    {
+      "id": "delete",
+      "heading": {
+        "sk": "Ako vymazať cookies v prehliadači",
+        "en": "How to delete cookies in your browser"
+      },
+      "body": [
+        {
+          "sk": "Cookies a údaje stránky môžete vymazať v nastaveniach prehliadača, zvyčajne v časti História alebo Súkromie a zabezpečenie.",
+          "en": "You can delete cookies and site data in your browser settings, usually under History or Privacy and security."
+        },
+        {
+          "sk": "Vymazaním sa obnovia predvolené hodnoty, napríklad predvolený jazyk stránky.",
+          "en": "Deleting them restores the default values, such as the site's default language."
+        }
+      ]
+    },
+    {
+      "id": "changes",
+      "heading": {
+        "sk": "Zmeny",
+        "en": "Changes"
+      },
+      "body": [
+        {
+          "sk": "Tento dokument môžeme aktualizovať. Aktuálna verzia je vždy zverejnená na tejto stránke.",
+          "en": "We may update this document. The current version is always published on this page."
+        }
+      ]
+    }
+  ]
+}

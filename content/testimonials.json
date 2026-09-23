@@ -1,0 +1,115 @@
+{
+  "_comment": "DEMO TESTIMONIALS. Replace with real customer reviews before public launch. These are fictional, illustrative content - they are NOT verified reviews and the site never presents them as such.",
+  "items": [
+    {
+      "name": "Martin K.",
+      "rating": 5,
+      "date": "2026-08",
+      "service": {
+        "sk": "Skin Fade",
+        "en": "Skin Fade"
+      },
+      "sk": "Skvelá atmosféra, čistý fade a veľmi profesionálny prístup. Určite sa vrátim.",
+      "en": "Great atmosphere, clean fade and a very professional approach. Definitely coming back."
+    },
+    {
+      "name": "Jakub M.",
+      "rating": 5,
+      "date": "2026-08",
+      "service": {
+        "sk": "Klasický strih",
+        "en": "Classic Haircut"
+      },
+      "sk": "Presne ten štýl, aký som chcel. Dobrá komunikácia a dôraz na detail.",
+      "en": "Exactly the style I wanted. Good communication and attention to detail."
+    },
+    {
+      "name": "Tomáš R.",
+      "rating": 5,
+      "date": "2026-07",
+      "service": {
+        "sk": "Strih + brada",
+        "en": "Haircut + Beard"
+      },
+      "sk": "Prvýkrát som odišiel so strihom, na ktorom sme sa naozaj dohodli. Brada perfektne upravená.",
+      "en": "First time I left with the haircut we actually agreed on. Beard perfectly shaped."
+    },
+    {
+      "name": "Michal P.",
+      "rating": 5,
+      "date": "2026-07",
+      "service": {
+        "sk": "Úprava brady",
+        "en": "Beard Trim"
+      },
+      "sk": "Rýchlo, čisto, presne. Nemám čo vytknúť.",
+      "en": "Quick, clean, precise. Nothing to fault."
+    },
+    {
+      "name": "Adam V.",
+      "rating": 4,
+      "date": "2026-06",
+      "service": {
+        "sk": "Dlhé vlasy",
+        "en": "Long Hair"
+      },
+      "sk": "Konečne niekto, kto rozumie dlhým vlasom. Chce to trochu času, ale výsledok stojí za to.",
+      "en": "Someone who finally understands long hair. It takes a bit of time, but the result is worth it."
+    },
+    {
+      "name": "Samuel K.",
+      "rating": 5,
+      "date": "2026-06",
+      "service": {
+        "sk": "Skin Fade",
+        "en": "Skin Fade"
+      },
+      "sk": "Prišiel som s fotkou a odišiel s presne tým istým. Perfektná práca s kontúrami.",
+      "en": "I came in with a photo and left with exactly that. Excellent work on the contours."
+    },
+    {
+      "name": "Filip B.",
+      "rating": 5,
+      "date": "2026-05",
+      "service": {
+        "sk": "Holenie hlavy",
+        "en": "Head Shave"
+      },
+      "sk": "Príjemné prostredie a naozaj poctivá práca. Holenie hladké, žiadne podráždenie.",
+      "en": "Pleasant environment and really careful work. A smooth shave, no irritation."
+    },
+    {
+      "name": "Dominik H.",
+      "rating": 4,
+      "date": "2026-05",
+      "service": {
+        "sk": "Klasický strih",
+        "en": "Classic Haircut"
+      },
+      "sk": "Dobrý strih za rozumnú cenu. Občas treba počkať, ale to sa dá pochopiť.",
+      "en": "A good haircut for a fair price. Sometimes you have to wait, but that's understandable."
+    },
+    {
+      "name": "Peter L.",
+      "rating": 5,
+      "date": "2026-04",
+      "service": {
+        "sk": "Strih + brada",
+        "en": "Haircut + Beard"
+      },
+      "sk": "Chodím pravidelne už nejaký čas a kvalita je vždy rovnaká. To si na tom cením najviac.",
+      "en": "I've been coming regularly for a while now and the quality is always the same. That's what I value most."
+    },
+    {
+      "name": "Lukáš T.",
+      "rating": 5,
+      "date": "2026-04",
+      "service": {
+        "sk": "Skin Fade",
+        "en": "Skin Fade"
+      },
+      "sk": "Detaily, kontúry, fúzy – všetko sedí. Cítil som sa dobre od začiatku do konca.",
+      "en": "Details, contours, moustache – all on point. I felt looked after from start to finish."
+    }
+  ]
+}

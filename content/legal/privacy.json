@@ -1,0 +1,194 @@
+{
+  "_comment": "PRIVACY POLICY TEMPLATE. Replace every [BRACKETED] placeholder and have the final text reviewed by the operator (ideally with legal advice) before publication.",
+  "slug": "privacy",
+  "titleKey": "legal.privacy",
+  "lastUpdated": "2026-09-23",
+  "intro": {
+    "sk": "Tento dokument vysvetľuje, aké osobné údaje spracúvame, prečo ich spracúvame, ako dlho ich uchovávame a aké máte práva.",
+    "en": "This document explains what personal data we process, why we process it, how long we keep it and what rights you have."
+  },
+  "sections": [
+    {
+      "id": "who",
+      "heading": {
+        "sk": "Kto sme",
+        "en": "Who we are"
+      },
+      "body": [
+        {
+          "sk": "Túto stránku prevádzkuje [BUSINESS LEGAL NAME], so sídlom [BUSINESS ADDRESS], IČO: [COMPANY ID / ICO].",
+          "en": "This website is operated by [BUSINESS LEGAL NAME], with its registered office at [BUSINESS ADDRESS], company ID: [COMPANY ID / ICO]."
+        },
+        {
+          "sk": "Sme barber shop poskytujúci služby strihania, úpravy brady a súvisiaceho styling.",
+          "en": "We are a barber shop providing haircutting, beard grooming and related styling services."
+        },
+        {
+          "sk": "V otázkach ochrany osobných údajov nás môžete kontaktovať na [EMAIL] alebo [PHONE].",
+          "en": "For anything relating to personal data you can contact us at [EMAIL] or [PHONE]."
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "heading": {
+        "sk": "Aké údaje spracúvame",
+        "en": "What personal information we collect"
+      },
+      "body": [
+        {
+          "sk": "Keď odošlete rezervačný formulár, spracúvame meno a priezvisko, e-mailovú adresu, telefónne číslo a nepovinnú poznámku, ktorú sami vyplníte.",
+          "en": "When you submit the booking form we process your full name, email address, phone number and any optional note you choose to provide."
+        },
+        {
+          "sk": "Spracúvame tiež technické informácie potrebné na chod stránky, napríklad zvolený jazyk a uložené nastavenie cookies. Tieto sa ukladajú priamo vo vašom prehliadači.",
+          "en": "We also process technical information needed to run the site, such as your chosen language and your saved cookie preference. These are stored directly in your browser."
+        },
+        {
+          "sk": "Táto verzia webu je statická: rezervačný formulár neodosiela údaje na server a nikde ich neukladá. Beží výhradne vo vašom prehliadači.",
+          "en": "This version of the site is static: the booking form sends no data to a server and stores it nowhere. It runs entirely in your browser."
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "heading": {
+        "sk": "Prečo údaje spracúvame a na akom právnom základe",
+        "en": "Why we process it and on what legal basis"
+      },
+      "body": [
+        {
+          "sk": "Údaje spracúvame preto, aby sme mohli vybaviť vašu požiadavku na rezerváciu termínu a komunikovať s vami o nej.",
+          "en": "We process your data in order to handle your appointment request and to communicate with you about it."
+        },
+        {
+          "sk": "Právnym základom je váš súhlas, ktorý udeľujete zaškrtnutím políčka v rezervačnom formulári, a v prípade vybavenej služby aj plnenie zmluvy.",
+          "en": "The legal basis is your consent, given by ticking the box in the booking form, and — where a service is carried out — the performance of a contract."
+        },
+        {
+          "sk": "Súhlas môžete kedykoľvek odvolať. Odvolanie nemá vplyv na zákonnosť spracúvania pred jeho odvolaním.",
+          "en": "You may withdraw your consent at any time. Withdrawal does not affect the lawfulness of processing carried out before it."
+        }
+      ]
+    },
+    {
+      "id": "retention",
+      "heading": {
+        "sk": "Ako dlho údaje uchovávame",
+        "en": "How long we store it"
+      },
+      "body": [
+        {
+          "sk": "Údaje z rezervácií uchovávame len tak dlho, ako je potrebné na vybavenie rezervácie a na splnenie zákonných povinností, najdlhšie však [RETENTION PERIOD].",
+          "en": "Booking data is kept only as long as necessary to handle the appointment and to meet our legal obligations, and no longer than [RETENTION PERIOD]."
+        },
+        {
+          "sk": "Údaje uložené vo vašom prehliadači, napríklad zvolený jazyk a nastavenie cookies, si môžete kedykoľvek vymazať v nastaveniach prehliadača.",
+          "en": "Data stored in your browser, such as your chosen language and cookie preference, can be deleted at any time in your browser settings."
+        }
+      ]
+    },
+    {
+      "id": "third",
+      "heading": {
+        "sk": "Komu údaje poskytujeme a tretie strany",
+        "en": "Who we share it with and third parties"
+      },
+      "body": [
+        {
+          "sk": "Vaše údaje nepredávame. Poskytujeme ich len osobám, ktoré sa podieľajú na vybavení rezervácie, alebo ak nám to ukladá zákon.",
+          "en": "We do not sell your data. We share it only with those involved in handling your booking, or where we are required to do so by law."
+        },
+        {
+          "sk": "Stránka aktuálne nenačítava žiadne analytické ani reklamné nástroje tretích strán. Ak sa rozhodneme nejaký pridať, bude načítaný až po vašom súhlase v nastaveniach cookies.",
+          "en": "The site currently loads no third-party analytics or advertising tools. If we add any, they will only load after you agree in the cookie settings."
+        },
+        {
+          "sk": "Ak do stránky pribudne mapa Google Maps, bude sa načítať až po kliknutí, pretože spoločnosť Google pri načítaní mapy nastavuje vlastné cookies.",
+          "en": "If a Google Maps embed is added to the site, it will load only after a click, because Google sets its own cookies when the map loads."
+        }
+      ]
+    },
+    {
+      "id": "rights",
+      "heading": {
+        "sk": "Vaše práva",
+        "en": "Your rights"
+      },
+      "body": [
+        {
+          "sk": "Máte právo na prístup k svojim údajom, na ich opravu, vymazanie, obmedzenie spracúvania, prenosnosť a právo namietať proti spracúvaniu.",
+          "en": "You have the right to access your data, to have it corrected, erased or restricted, the right to data portability and the right to object to processing."
+        },
+        {
+          "sk": "Ak sa domnievate, že spracúvame vaše údaje nesprávne, môžete sa obrátiť na nás alebo podať sťažnosť na dozorný orgán, ktorým je Úrad na ochranu osobných údajov Slovenskej republiky.",
+          "en": "If you believe we are processing your data incorrectly you can contact us or lodge a complaint with the supervisory authority, which is the Office for Personal Data Protection of the Slovak Republic."
+        }
+      ]
+    },
+    {
+      "id": "erasure",
+      "heading": {
+        "sk": "Vymazanie údajov a žiadosti",
+        "en": "Deletion requests and other requests"
+      },
+      "body": [
+        {
+          "sk": "O vymazanie svojich údajov alebo o uplatnenie ktoréhokoľvek práva môžete požiadať e-mailom na [EMAIL] alebo telefonicky na [PHONE].",
+          "en": "You can request deletion of your data, or exercise any of your rights, by email at [EMAIL] or by phone at [PHONE]."
+        },
+        {
+          "sk": "Na vašu žiadosť odpovieme bez zbytočného odkladu, najneskôr do jedného mesiaca od jej doručenia.",
+          "en": "We will respond to your request without undue delay and in any case within one month of receiving it."
+        }
+      ]
+    },
+    {
+      "id": "cookies",
+      "heading": {
+        "sk": "Cookies",
+        "en": "Cookies"
+      },
+      "body": [
+        {
+          "sk": "Cookies sú malé textové súbory, ktoré sa ukladajú vo vašom prehliadači. Táto stránka používa nevyhnutné úložisko na zapamätanie zvoleného jazyka a vášho nastavenia cookies.",
+          "en": "Cookies are small text files stored in your browser. This site uses essential storage to remember your chosen language and your cookie preference."
+        },
+        {
+          "sk": "Podrobnosti o jednotlivých kategóriách a možnosti ich zmeny nájdete v dokumente Zásady používania cookies.",
+          "en": "You can find details of the individual categories and how to change them in the Cookie Policy."
+        }
+      ]
+    },
+    {
+      "id": "booking",
+      "heading": {
+        "sk": "Informácie o rezerváciách",
+        "en": "Booking information"
+      },
+      "body": [
+        {
+          "sk": "Údaje vyplnené v rezervačnom formulári slúžia výhradne na vybavenie vašej požiadavky na termín.",
+          "en": "The details you enter in the booking form are used solely to handle your appointment request."
+        },
+        {
+          "sk": "V tejto verzii webu je rezervačný systém ukážkový (demo). Údaje sa nikam neodosielajú ani neukladajú a po obnovení stránky zmiznú.",
+          "en": "In this version of the site the booking system is a demo. Data is not sent anywhere or stored, and it disappears when the page is reloaded."
+        }
+      ]
+    },
+    {
+      "id": "changes",
+      "heading": {
+        "sk": "Zmeny tohto dokumentu",
+        "en": "Changes to this document"
+      },
+      "body": [
+        {
+          "sk": "Tento dokument môžeme aktualizovať. Aktuálna verzia je vždy zverejnená na tejto stránke spolu s dátumom poslednej aktualizácie.",
+          "en": "We may update this document. The current version is always published on this page together with the date of the last update."
+        }
+      ]
+    }
+  ]
+}

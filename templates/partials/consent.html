@@ -1,0 +1,60 @@
+<div class="consent" data-consent-banner role="region" aria-label="Používame cookies" hidden>
+  <div class="container consent__inner">
+    <div class="consent__text">
+      <h2 class="consent__title" data-i18n="consent.bannerTitle">Používame cookies</h2>
+      <p data-i18n="consent.bannerText">Nevyhnutné cookies potrebujeme na chod stránky. Ostatné použijeme len vtedy, ak s tým budete súhlasiť.</p>
+      <a class="inline-link" href="{{COOKIES_URL}}" data-i18n="consent.policyLink">Zásady používania cookies</a>
+    </div>
+    <div class="consent__actions">
+      <button type="button" class="btn btn--quiet btn--sm" data-consent-reject data-i18n="consent.reject">Odmietnuť</button>
+      <button type="button" class="btn btn--ghost btn--sm" data-consent-settings data-i18n="consent.settings">Nastavenia</button>
+      <button type="button" class="btn btn--primary btn--sm" data-consent-accept data-i18n="consent.accept">Prijať všetky</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal" data-consent-modal role="dialog" aria-modal="true" aria-labelledby="consent-modal-title" hidden>
+  <div class="modal__backdrop" data-consent-close></div>
+  <div class="modal__panel" role="document">
+    <div class="modal__head">
+      <h2 class="modal__title" id="consent-modal-title" data-i18n="consent.modalTitle">Nastavenia cookies</h2>
+      <button type="button" class="icon-btn" data-consent-close aria-label="Zavrieť" data-i18n-attr="aria-label:consent.close">
+        <svg class="icon" aria-hidden="true"><use href="#i-close"/></svg>
+      </button>
+    </div>
+    <p class="modal__intro" data-i18n="consent.modalIntro">Vyberte, ktoré kategórie cookies môžeme používať. Svoj výber môžete kedykoľvek zmeniť v pätičke stránky.</p>
+    <ul class="prefs">
+      <li class="prefs__item">
+        <div class="prefs__head">
+          <h3 class="prefs__title" data-i18n="consent.necessary">Nevyhnutné</h3>
+          <span class="prefs__state" data-i18n="consent.alwaysOn">Vždy aktívne</span>
+        </div>
+        <p class="prefs__text" data-i18n="consent.necessaryText">Zabezpečujú základné fungovanie stránky, napríklad zapamätanie zvoleného jazyka a tohto súhlasu. Nemožno ich vypnúť.</p>
+      </li>
+      <li class="prefs__item">
+        <label class="prefs__head" for="pref-analytics">
+          <span class="prefs__title" data-i18n="consent.analytics">Analytické</span>
+          <span class="switch">
+            <input type="checkbox" id="pref-analytics" data-consent-cat="analytics">
+            <span class="switch__track" aria-hidden="true"><span class="switch__thumb"></span></span>
+          </span>
+        </label>
+        <p class="prefs__text" data-i18n="consent.analyticsText">Pomáhajú pochopiť, ako sa stránka používa. Na tejto stránke nie sú v súčasnosti nasadené žiadne analytické nástroje.</p>
+      </li>
+      <li class="prefs__item">
+        <label class="prefs__head" for="pref-marketing">
+          <span class="prefs__title" data-i18n="consent.marketing">Marketingové</span>
+          <span class="switch">
+            <input type="checkbox" id="pref-marketing" data-consent-cat="marketing">
+            <span class="switch__track" aria-hidden="true"><span class="switch__thumb"></span></span>
+          </span>
+        </label>
+        <p class="prefs__text" data-i18n="consent.marketingText">Používajú sa na zobrazovanie relevantnej reklamy. Na tejto stránke nie sú v súčasnosti nasadené.</p>
+      </li>
+    </ul>
+    <div class="modal__foot">
+      <p class="modal__note" data-consent-note hidden data-i18n="consent.savedNote">Vaše nastavenie bolo uložené v tomto prehliadači.</p>
+      <button type="button" class="btn btn--primary" data-consent-save data-i18n="consent.save">Uložiť nastavenia</button>
+    </div>
+  </div>
+</div>

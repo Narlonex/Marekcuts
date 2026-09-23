@@ -1,0 +1,27 @@
+{
+  "_comment": "SINGLE SOURCE OF TRUTH for business identity. Replace every [BRACKETED] placeholder with real data before launch. build.py reads this for <title>, meta tags, Open Graph, JSON-LD and the legal pages.",
+  "businessName": "Marek Cuts",
+  "businessNameUpper": "MAREK CUTS",
+  "shopType": "Barber Shop",
+  "siteUrl": "https://example.com/",
+  "address": "[BARBER SHOP ADDRESS]",
+  "addressLines": [
+    "[STREET AND NUMBER]",
+    "[POSTAL CODE, CITY]"
+  ],
+  "phone": "[PHONE NUMBER]",
+  "email": "[EMAIL ADDRESS]",
+  "instagram": "[INSTAGRAM URL]",
+  "facebook": "[FACEBOOK URL]",
+  "tiktok": "[TIKTOK URL]",
+  "legal": {
+    "_comment": "Operator details shown on the legal pages. Supplied to the site as bracketed placeholders - never invent these.",
+    "legalName": "[BUSINESS LEGAL NAME]",
+    "legalAddress": "[BUSINESS ADDRESS]",
+    "companyId": "[COMPANY ID / ICO]",
+    "email": "[EMAIL]",
+    "phone": "[PHONE]"
+  },
+  "themeColor": "#0A0A0B",
+  "copyrightYear": 2026
+}

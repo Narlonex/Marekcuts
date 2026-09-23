@@ -1,0 +1,90 @@
+{
+  "_comment": "DEMO PRICES AND DURATIONS - illustrative only, not real business pricing. Replace price/duration before launch. 'icon' maps to an inline SVG in the built page. 'id' is used by the booking wizard to preselect the service.",
+  "currency": "EUR",
+  "items": [
+    {
+      "id": "classic-haircut",
+      "icon": "scissors",
+      "price": 22,
+      "duration": 45,
+      "sk": {
+        "name": "Klasický strih",
+        "description": "Pánsky strih nožnicami a strojčekom, úprava kontúr a finálny styling."
+      },
+      "en": {
+        "name": "Classic Haircut",
+        "description": "Professional men's haircut with consultation and final styling."
+      }
+    },
+    {
+      "id": "skin-fade",
+      "icon": "clipper",
+      "price": 26,
+      "duration": 45,
+      "sk": {
+        "name": "Skin Fade",
+        "description": "Čistý a precízny fade strih s plynulým prechodom až na kožu."
+      },
+      "en": {
+        "name": "Skin Fade",
+        "description": "Clean and precise fade blended smoothly down to the skin."
+      }
+    },
+    {
+      "id": "haircut-beard",
+      "icon": "razor",
+      "price": 38,
+      "duration": 70,
+      "sk": {
+        "name": "Strih + brada",
+        "description": "Strih vlasov spojený s profesionálnym tvarovaním brady."
+      },
+      "en": {
+        "name": "Haircut + Beard",
+        "description": "Haircut combined with professional beard styling."
+      }
+    },
+    {
+      "id": "beard-trim",
+      "icon": "beard",
+      "price": 16,
+      "duration": 30,
+      "sk": {
+        "name": "Úprava brady",
+        "description": "Tvarovanie a skracovanie brady, úprava kontúr a fúzov."
+      },
+      "en": {
+        "name": "Beard Trim",
+        "description": "Professional beard shaping and trimming, contour and moustache work."
+      }
+    },
+    {
+      "id": "long-hair",
+      "icon": "comb",
+      "price": 28,
+      "duration": 60,
+      "sk": {
+        "name": "Dlhé vlasy",
+        "description": "Strih a úprava dlhých vlasov s dôrazom na tvar a pohyb."
+      },
+      "en": {
+        "name": "Long Hair",
+        "description": "Professional long-hair haircut and styling."
+      }
+    },
+    {
+      "id": "head-shave",
+      "icon": "head",
+      "price": 20,
+      "duration": 30,
+      "sk": {
+        "name": "Holenie hlavy",
+        "description": "Profesionálne holenie hlavy strojčekom alebo britvou."
+      },
+      "en": {
+        "name": "Head Shave",
+        "description": "Professional head shaving with clippers or a straight razor."
+      }
+    }
+  ]
+}

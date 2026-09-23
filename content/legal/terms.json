@@ -1,0 +1,178 @@
+{
+  "_comment": "BOOKING TERMS TEMPLATE. Replace every [BRACKETED] placeholder and have the final text reviewed by the operator before publication.",
+  "slug": "terms",
+  "titleKey": "legal.terms",
+  "lastUpdated": "2026-09-23",
+  "intro": {
+    "sk": "Podmienky používania rezervačného systému a súvisiacich služieb. Toto je ukážkový text pripravený na úpravu prevádzkovateľom.",
+    "en": "Terms for using the booking system and related services. This is sample text prepared for the operator to adapt."
+  },
+  "sections": [
+    {
+      "id": "scope",
+      "heading": {
+        "sk": "Rozsah podmienok",
+        "en": "Scope of these terms"
+      },
+      "body": [
+        {
+          "sk": "Tieto podmienky upravujú používanie rezervačného systému na stránke Marek Cuts.",
+          "en": "These terms govern the use of the booking system on the Marek Cuts website."
+        },
+        {
+          "sk": "Prevádzkovateľom stránky je [BUSINESS LEGAL NAME], so sídlom [BUSINESS ADDRESS], IČO: [COMPANY ID / ICO].",
+          "en": "The operator of the site is [BUSINESS LEGAL NAME], with its registered office at [BUSINESS ADDRESS], company ID: [COMPANY ID / ICO]."
+        }
+      ]
+    },
+    {
+      "id": "demo",
+      "heading": {
+        "sk": "Demo rezervačný systém",
+        "en": "Demo booking system"
+      },
+      "body": [
+        {
+          "sk": "Táto verzia stránky obsahuje ukážkový rezervačný systém. Odoslaním formulára nevzniká žiadna skutočná rezervácia a žiadne údaje sa neukladajú ani neodosielajú.",
+          "en": "This version of the site contains a demo booking system. Submitting the form does not create a real appointment, and no data is stored or sent anywhere."
+        },
+        {
+          "sk": "Záväznú rezerváciu je možné uzavrieť až telefónne na [PHONE] alebo e-mailom na [EMAIL] potom, čo bude spustená skutočná verzia stránky.",
+          "en": "A binding appointment can only be arranged by phone on [PHONE] or by email at [EMAIL], once the production version of the site has been launched."
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "heading": {
+        "sk": "Priebeh rezervácie",
+        "en": "How booking works"
+      },
+      "body": [
+        {
+          "sk": "Rezervácia prebieha výberom služby, dátumu a času a vyplnením kontaktných údajov.",
+          "en": "A booking is made by choosing a service, a date and a time, and filling in your contact details."
+        },
+        {
+          "sk": "Dostupné termíny zobrazené v kalendári sú v tejto ukážkovej verzii generované automaticky a nie sú skutočným rozvrhom prevádzky.",
+          "en": "In this demo version the available times shown in the calendar are generated automatically and are not a real schedule of the shop."
+        }
+      ]
+    },
+    {
+      "id": "changes",
+      "heading": {
+        "sk": "Zmena a zrušenie rezervácie",
+        "en": "Changing or cancelling a booking"
+      },
+      "body": [
+        {
+          "sk": "Ak už máte platnú rezerváciu a potrebujete ju zmeniť alebo zrušiť, kontaktujte nás prosím vopred telefonicky na [PHONE].",
+          "en": "If you have an existing appointment and need to change or cancel it, please contact us in advance by phone on [PHONE]."
+        },
+        {
+          "sk": "Podmienky pre zrušenie a prípadný poplatok za nedostavenie sa sú [CANCELLATION POLICY].",
+          "en": "The conditions for cancellation and any no-show fee are [CANCELLATION POLICY]."
+        }
+      ]
+    },
+    {
+      "id": "late",
+      "heading": {
+        "sk": "Oneskorenie",
+        "en": "Late arrivals"
+      },
+      "body": [
+        {
+          "sk": "Ak meškáte, zavolajte nám. Termín môžeme skrátiť alebo presunúť podľa možností prevádzky.",
+          "en": "If you are running late, please call us. Depending on how the shop is doing we may shorten or move the appointment."
+        },
+        {
+          "sk": "Pri výraznom oneskorení môže byť termín pridelený inému klientovi.",
+          "en": "If the delay is significant, the appointment may be given to another client."
+        }
+      ]
+    },
+    {
+      "id": "prices",
+      "heading": {
+        "sk": "Ceny a platba",
+        "en": "Prices and payment"
+      },
+      "body": [
+        {
+          "sk": "Ceny uvedené na stránke sú v tejto ukážkovej verzii demonštračné a nie sú záväzné. Skutočný cenník doplní prevádzkovateľ.",
+          "en": "The prices shown on this demo version of the site are illustrative and not binding. The operator will supply the real price list."
+        },
+        {
+          "sk": "Platba prebieha v prevádzke. Spôsoby platby sú [PAYMENT METHODS].",
+          "en": "Payment is made in the shop. Accepted payment methods are [PAYMENT METHODS]."
+        }
+      ]
+    },
+    {
+      "id": "refuse",
+      "heading": {
+        "sk": "Právo odmietnuť službu",
+        "en": "Right to refuse service"
+      },
+      "body": [
+        {
+          "sk": "Prevádzkovateľ môže odmietnuť poskytnutie služby, najmä ak je to potrebné z hygienických alebo bezpečnostných dôvodov.",
+          "en": "The operator may refuse to provide a service, in particular where this is necessary for hygiene or safety reasons."
+        }
+      ]
+    },
+    {
+      "id": "liability",
+      "heading": {
+        "sk": "Zodpovednosť",
+        "en": "Liability"
+      },
+      "body": [
+        {
+          "sk": "Prevádzkovateľ nezodpovedá za škodu vzniknutú nesprávnym používaním stránky alebo za prerušenie jej dostupnosti.",
+          "en": "The operator is not liable for damage caused by incorrect use of the site or by an interruption in its availability."
+        },
+        {
+          "sk": "Táto ukážková verzia stránky je poskytovaná tak, ako je, bez záruky funkčnosti rezervačného systému.",
+          "en": "This demo version of the site is provided as is, without any warranty as to the functioning of the booking system."
+        }
+      ]
+    },
+    {
+      "id": "complaints",
+      "heading": {
+        "sk": "Sťažnosti",
+        "en": "Complaints"
+      },
+      "body": [
+        {
+          "sk": "Sťažnosti a pripomienky prijímame na [EMAIL] alebo na telefónnom čísle [PHONE].",
+          "en": "We accept complaints and feedback at [EMAIL] or by phone on [PHONE]."
+        },
+        {
+          "sk": "Na sťažnosť odpovieme najneskôr do 30 dní od jej doručenia.",
+          "en": "We will respond to a complaint within 30 days of receiving it."
+        }
+      ]
+    },
+    {
+      "id": "law",
+      "heading": {
+        "sk": "Rozhodné právo",
+        "en": "Governing law"
+      },
+      "body": [
+        {
+          "sk": "Tieto podmienky sa riadia právom Slovenskej republiky.",
+          "en": "These terms are governed by the law of the Slovak Republic."
+        },
+        {
+          "sk": "Toto je šablóna. Pred zverejnením ju musí skontrolovať a upraviť prevádzkovateľ.",
+          "en": "This is a template. It must be reviewed and adapted by the operator before publication."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}" data-lang="{{LANG}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("js");</script>
+
+<title>{{SEO_TITLE}}</title>
+<meta name="description" content="{{SEO_DESCRIPTION}}">
+<meta name="theme-color" content="{{THEME_COLOR}}">
+<meta name="robots" content="index, follow">
+<!-- CANONICAL: replace example.com with the real domain before launch -->
+<link rel="canonical" href="{{SEO_CANONICAL}}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{SEO_SITE_NAME}}">
+<meta property="og:title" content="{{SEO_TITLE}}">
+<meta property="og:description" content="{{SEO_DESCRIPTION}}">
+<meta property="og:locale" content="{{SEO_OG_LOCALE}}">
+<meta property="og:locale:alternate" content="{{SEO_OG_LOCALE_ALT}}">
+<meta property="og:url" content="{{SEO_CANONICAL}}">
+<meta name="twitter:card" content="summary">
+{{FAVICON}}
+{{FONTS}}
+{{STYLES}}
+</head>
+<body class="page-legal" data-title-key="{{TITLE_KEY}}">
+<a class="skip-link" href="#main" data-i18n="a11y.skipLink">Preskočiť na obsah</a>
+
+<svg class="sprite" aria-hidden="true" focusable="false" width="0" height="0" style="position:absolute">
+<defs>
+<symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M4 12h15M13.5 6l6 6-6 6"/></symbol>
+<symbol id="i-chev-left" viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></symbol>
+<symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24"><path d="M4.5 12.5l5 5L19.5 7"/></symbol>
+<symbol id="i-alert" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7.5v5.5M12 16.4h.01"/></symbol>
+<symbol id="i-scissors" viewBox="0 0 24 24"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"/></symbol>
+<symbol id="i-phone" viewBox="0 0 24 24"><path d="M6 3h3l2 5-2.4 1.6a12 12 0 0 0 5.8 5.8L16 13l5 2v3a2 2 0 0 1-2.2 2A17 17 0 0 1 4 5.2 2 2 0 0 1 6 3z"/></symbol>
+<symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3.5 6.5l8.5 6 8.5-6"/></symbol>
+<symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s7-6.1 7-11a7 7 0 1 0-14 0c0 4.9 7 11 7 11z"/><circle cx="12" cy="10" r="2.6"/></symbol>
+<symbol id="i-instagram" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.2 6.9h.01"/></symbol>
+<symbol id="i-facebook" viewBox="0 0 24 24"><path d="M14.5 8.5H17V5h-2.6C12.4 5 11 6.4 11 8.4V11H9v3.5h2V21h3.5v-6.5H17L17.5 11h-3V8.9c0-.3.2-.4.5-.4z"/></symbol>
+<symbol id="i-tiktok" viewBox="0 0 24 24"><path d="M14 3v9.5a3.5 3.5 0 1 1-3.5-3.5"/><path d="M14 3c.4 2.4 2 4 4.5 4.3"/></symbol>
+</defs>
+</svg>
+
+<header class="legal-header">
+  <div class="container legal-header__inner">
+    <a class="brand brand--sm" href="{{HOME_URL}}" data-i18n-attr="aria-label:nav.homeLink">
+      <img class="brand__logo" src="{{LOGO_SM}}" alt="{{LOGO_ALT}}" width="{{LOGO_SM_W}}" height="{{LOGO_SM_H}}" decoding="async">
+    </a>
+    <div class="legal-header__actions">
+      <div class="lang" role="group" aria-label="Jazyk" data-i18n-attr="aria-label:lang.label" data-lang-switch>
+        <button type="button" class="lang__btn is-active" data-lang-btn="sk" aria-pressed="true">SK</button>
+        <span class="lang__sep" aria-hidden="true">/</span>
+        <button type="button" class="lang__btn" data-lang-btn="en" aria-pressed="false">EN</button>
+      </div>
+      <a class="btn btn--ghost btn--sm" href="{{HOME_URL}}">
+        <svg class="icon icon--flip" aria-hidden="true"><use href="#i-arrow-right"/></svg>
+        <span data-i18n="legal.backHome">Späť na hlavnú stránku</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="legal">
+  <div class="container legal__layout">
+    <article class="legal__doc">
+      <nav class="breadcrumb" aria-label="Omrvinková navigácia" data-i18n-attr="aria-label:a11y.breadcrumb">
+        <ol>
+          <li><a href="{{HOME_URL}}" data-i18n="nav.home">Domov</a></li>
+          <li aria-current="page"><span data-i18n="{{TITLE_KEY}}">{{LEGAL_TITLE}}</span></li>
+        </ol>
+      </nav>
+
+      <p class="eyebrow">{{LEGAL_KIND}}</p>
+      <h1 class="legal__title" data-i18n="{{TITLE_KEY}}">{{LEGAL_TITLE}}</h1>          <p class="legal__updated" data-updated="{{LAST_UPDATED_DATE}}"
+             data-i18n="legal.lastUpdated" data-i18n-vars='{"date": "{{LAST_UPDATED_DATE}}"}'>{{LAST_UPDATED}}</p>
+
+      <p class="legal__notice" role="note">
+        <svg class="icon" aria-hidden="true"><use href="#i-alert"/></svg>
+        <span data-i18n="legal.operatorNotice">Toto je šablóna právneho dokumentu...</span>
+      </p>
+
+      <nav class="toc" aria-labelledby="toc-title">
+        <h2 class="toc__title" id="toc-title" data-i18n="legal.onThisPage">Na tejto stránke</h2>
+        <ol class="toc__list">
+{{TOC}}
+        </ol>
+      </nav>
+
+{{LEGAL_BODY}}
+
+      <div class="operator">
+        <h2 class="operator__title" data-i18n="legal.operatorTitle">Prevádzkovateľ</h2>
+        <dl class="operator__list">
+{{OPERATOR}}
+        </dl>
+      </div>
+    </article>
+
+    <aside class="legal__aside">
+      <h2 class="legal__aside-title" data-i18n="footer.legalTitle">Právne informácie</h2>
+      <ul class="legal__aside-list">
+        <li><a href="{{PRIVACY_URL}}" data-i18n="legal.privacy">Ochrana osobných údajov</a></li>
+        <li><a href="{{GDPR_URL}}" data-i18n="legal.gdpr">GDPR / Spracovanie osobných údajov</a></li>
+        <li><a href="{{COOKIES_URL}}" data-i18n="legal.cookies">Zásady používania cookies</a></li>
+        <li><a href="{{TERMS_URL}}" data-i18n="legal.terms">Podmienky rezervácie</a></li>
+      </ul>
+      <a class="btn btn--primary btn--block btn--sm" href="{{HOME_URL}}#booking" data-i18n="nav.bookNow">Objednať sa</a>
+    </aside>
+  </div>
+</main>
+
+<footer class="site-footer site-footer--legal">
+  <div class="container site-footer__bottom">
+    <p data-i18n="footer.rights">© 2026 Marek Cuts. Všetky práva vyhradené.</p>
+    <button type="button" class="linkish" data-consent-open data-i18n="footer.cookieSettings">Nastavenia cookies</button>
+  </div>
+</footer>
+
+{{CONSENT_UI}}
+
+<script src="{{SCRIPT_URL}}" defer></script>
+</body>
+</html>

@@ -1,0 +1,870 @@
+{
+ "nav.home": {
+  "sk": "Domov",
+  "en": "Home"
+ },
+ "nav.about": {
+  "sk": "O nás",
+  "en": "About"
+ },
+ "nav.services": {
+  "sk": "Služby",
+  "en": "Services"
+ },
+ "nav.gallery": {
+  "sk": "Galéria",
+  "en": "Gallery"
+ },
+ "nav.reviews": {
+  "sk": "Recenzie",
+  "en": "Reviews"
+ },
+ "nav.booking": {
+  "sk": "Rezervácia",
+  "en": "Booking"
+ },
+ "nav.contact": {
+  "sk": "Kontakt",
+  "en": "Contact"
+ },
+ "nav.bookNow": {
+  "sk": "Objednať sa",
+  "en": "Book now"
+ },
+ "nav.openMenu": {
+  "sk": "Otvoriť menu",
+  "en": "Open menu"
+ },
+ "nav.closeMenu": {
+  "sk": "Zavrieť menu",
+  "en": "Close menu"
+ },
+ "nav.menuTitle": {
+  "sk": "Menu",
+  "en": "Menu"
+ },
+ "lang.label": {
+  "sk": "Jazyk",
+  "en": "Language"
+ },
+ "lang.switchTo": {
+  "sk": "Prepnúť jazyk",
+  "en": "Switch language"
+ },
+ "lang.sk": {
+  "sk": "SK",
+  "en": "SK"
+ },
+ "lang.en": {
+  "sk": "EN",
+  "en": "EN"
+ },
+ "hero.eyebrow": {
+  "sk": "Marek Cuts — Barber Shop",
+  "en": "Marek Cuts — Barber Shop"
+ },
+ "hero.t1": {
+  "sk": "PRECÍZNOSŤ.",
+  "en": "PRECISION."
+ },
+ "hero.t2": {
+  "sk": "ŠTÝL.",
+  "en": "STYLE."
+ },
+ "hero.t3": {
+  "sk": "SEBAVEDOMIE.",
+  "en": "CONFIDENCE."
+ },
+ "hero.subtitle": {
+  "sk": "Moderný barbering založený na precíznosti, štýle a individuálnom prístupe.",
+  "en": "Modern barbering focused on precision, style and an individual approach."
+ },
+ "hero.ctaPrimary": {
+  "sk": "Objednať sa",
+  "en": "Book an appointment"
+ },
+ "hero.ctaSecondary": {
+  "sk": "Pozrieť služby",
+  "en": "Explore services"
+ },
+ "hero.scroll": {
+  "sk": "Posunúť nižšie",
+  "en": "Scroll down"
+ },
+ "about.eyebrow": {
+  "sk": "O nás",
+  "en": "About"
+ },
+ "about.title": {
+  "sk": "Remeslo, nie rutina.",
+  "en": "Craft, not routine."
+ },
+ "about.lead": {
+  "sk": "Marek Cuts je moderný barber shop zameraný na precízne strihy, čisté fade strihy, klasické barber techniky a individuálny prístup ku každému klientovi.",
+  "en": "Marek Cuts is a modern barber shop focused on precision cuts, clean fades, classic barbering techniques and an individual approach to every client."
+ },
+ "about.body": {
+  "sk": "Každý strih začína rozhovorom. Zisťujeme, ako sa vlasy správajú, čo si prajete a čo bude fungovať aj o dva týždne. Pracujeme pokojne, bez zhonu, s dôrazom na kontúry a detail, ktorý drží tvar.",
+  "en": "Every cut starts with a conversation. We look at how your hair behaves, what you want, and what will still work two weeks from now. We work calmly, without rush, with an emphasis on the contours and the detail that keeps the shape."
+ },
+ "about.cta": {
+  "sk": "Pozrieť služby",
+  "en": "Explore services"
+ },
+ "about.imageAlt": {
+  "sk": "Interiér barber shopu Marek Cuts",
+  "en": "The Marek Cuts barber shop interior"
+ },
+ "about.v1.title": {
+  "sk": "Precíznosť",
+  "en": "Precision"
+ },
+ "about.v1.text": {
+  "sk": "Rozhoduje každý detail.",
+  "en": "Every detail matters."
+ },
+ "about.v2.title": {
+  "sk": "Štýl",
+  "en": "Style"
+ },
+ "about.v2.text": {
+  "sk": "Strih má sedieť vám, nie trendu.",
+  "en": "Your haircut should fit you."
+ },
+ "about.v3.title": {
+  "sk": "Zážitok",
+  "en": "Experience"
+ },
+ "about.v3.text": {
+  "sk": "Miesto, kam sa radi vraciate.",
+  "en": "A place where you enjoy coming back."
+ },
+ "about.v4.title": {
+  "sk": "Kvalita",
+  "en": "Quality"
+ },
+ "about.v4.text": {
+  "sk": "Profesionálne nástroje, techniky a pozornosť detailu.",
+  "en": "Professional tools, techniques and attention to detail."
+ },
+ "services.eyebrow": {
+  "sk": "Cenník",
+  "en": "Pricing"
+ },
+ "services.title": {
+  "sk": "Služby",
+  "en": "Services"
+ },
+ "services.intro": {
+  "sk": "Vyberte si službu. Rezervácia sa predvyplní podľa vášho výberu.",
+  "en": "Pick a service. The booking form is preselected with your choice."
+ },
+ "services.book": {
+  "sk": "Rezervovať",
+  "en": "Book"
+ },
+ "services.duration": {
+  "sk": "Trvanie",
+  "en": "Duration"
+ },
+ "services.demoNote": {
+  "sk": "Uvedené ceny a trvanie sú ukážkové (demo) a nie sú záväzné.",
+  "en": "Prices and durations shown are demo values and are not binding."
+ },
+ "services.menuLabel": {
+  "sk": "Zoznam služieb",
+  "en": "Service list"
+ },
+ "gallery.eyebrow": {
+  "sk": "Galéria",
+  "en": "Gallery"
+ },
+ "gallery.title": {
+  "sk": "Práca a atmosféra",
+  "en": "The work and the atmosphere"
+ },
+ "gallery.intro": {
+  "sk": "Vybrané strihy, detaily a interiér.",
+  "en": "Selected cuts, details and the interior."
+ },
+ "gallery.openLabel": {
+  "sk": "Zväčšiť obrázok: {alt}",
+  "en": "Enlarge image: {alt}"
+ },
+ "gallery.lightboxLabel": {
+  "sk": "Galéria obrázkov",
+  "en": "Image gallery"
+ },
+ "gallery.close": {
+  "sk": "Zavrieť",
+  "en": "Close"
+ },
+ "gallery.prev": {
+  "sk": "Predchádzajúci",
+  "en": "Previous"
+ },
+ "gallery.next": {
+  "sk": "Nasledujúci",
+  "en": "Next"
+ },
+ "gallery.counter": {
+  "sk": "{current} z {total}",
+  "en": "{current} of {total}"
+ },
+ "gallery.demoNote": {
+  "sk": "Fotografie sú ilustračné. Nahraďte ich vlastnými zábermi z prevádzky.",
+  "en": "Photographs are illustrative. Replace them with your own shots of the shop."
+ },
+ "reviews.eyebrow": {
+  "sk": "Recenzie",
+  "en": "Reviews"
+ },
+ "reviews.title": {
+  "sk": "Čo hovoria klienti",
+  "en": "What clients say"
+ },
+ "reviews.intro": {
+  "sk": "Ukážkové hodnotenia, ktoré ukazujú, ako bude sekcia vyzerať po nasadení.",
+  "en": "Illustrative ratings showing how this section will look once live."
+ },
+ "reviews.demoNote": {
+  "sk": "Toto sú ukážkové (demo) recenzie pre náhľad dizajnu. Nie sú overené a nepredstavujú skutočných zákazníkov. Pred spustením ich nahraďte skutočnými recenziami.",
+  "en": "These are demo testimonials for design preview only. They are not verified and do not represent real customers. Replace them with real reviews before launch."
+ },
+ "reviews.ratingLabel": {
+  "sk": "{rating} z 5 hviezdičiek",
+  "en": "{rating} out of 5 stars"
+ },
+ "reviews.prev": {
+  "sk": "Predchádzajúca recenzia",
+  "en": "Previous review"
+ },
+ "reviews.next": {
+  "sk": "Nasledujúca recenzia",
+  "en": "Next review"
+ },
+ "reviews.goTo": {
+  "sk": "Prejsť na recenziu {n}",
+  "en": "Go to review {n}"
+ },
+ "reviews.demoTag": {
+  "sk": "Demo",
+  "en": "Demo"
+ },
+ "booking.eyebrow": {
+  "sk": "Rezervácia",
+  "en": "Booking"
+ },
+ "booking.title": {
+  "sk": "Rezervujte si termín",
+  "en": "Book your appointment"
+ },
+ "booking.intro": {
+  "sk": "Vyberte službu, dátum a čas. Zvyšok je otázkou chvíle.",
+  "en": "Choose a service, a date and a time. The rest takes a moment."
+ },
+ "booking.stepPrefix": {
+  "sk": "Krok",
+  "en": "Step"
+ },
+ "booking.stepOf": {
+  "sk": "z",
+  "en": "of"
+ },
+ "booking.step1": {
+  "sk": "Služba",
+  "en": "Service"
+ },
+ "booking.step2": {
+  "sk": "Dátum",
+  "en": "Date"
+ },
+ "booking.step3": {
+  "sk": "Čas",
+  "en": "Time"
+ },
+ "booking.step4": {
+  "sk": "Údaje",
+  "en": "Details"
+ },
+ "booking.step5": {
+  "sk": "Súhrn",
+  "en": "Summary"
+ },
+ "booking.step6": {
+  "sk": "Hotovo",
+  "en": "Done"
+ },
+ "booking.stepperLabel": {
+  "sk": "Priebeh rezervácie",
+  "en": "Booking progress"
+ },
+ "booking.back": {
+  "sk": "Späť",
+  "en": "Back"
+ },
+ "booking.continue": {
+  "sk": "Pokračovať",
+  "en": "Continue"
+ },
+ "booking.confirm": {
+  "sk": "Potvrdiť rezerváciu",
+  "en": "Confirm booking"
+ },
+ "booking.edit": {
+  "sk": "Upraviť",
+  "en": "Edit"
+ },
+ "booking.chooseService": {
+  "sk": "Vyberte službu",
+  "en": "Select a service"
+ },
+ "booking.chooseDate": {
+  "sk": "Vyberte dátum",
+  "en": "Select a date"
+ },
+ "booking.chooseTime": {
+  "sk": "Vyberte čas",
+  "en": "Select a time"
+ },
+ "booking.availableTimes": {
+  "sk": "Dostupné termíny",
+  "en": "Available times"
+ },
+ "booking.availableTimesFor": {
+  "sk": "Dostupné termíny pre {date}",
+  "en": "Available times for {date}"
+ },
+ "booking.noTimesTitle": {
+  "sk": "V tento deň nie sú voľné termíny",
+  "en": "No times available on this day"
+ },
+ "booking.noTimesText": {
+  "sk": "Skúste prosím iný dátum.",
+  "en": "Please try another date."
+ },
+ "booking.selectDateFirst": {
+  "sk": "Najprv vyberte dátum, potom čas.",
+  "en": "Select a date first, then choose a time."
+ },
+ "booking.today": {
+  "sk": "Dnes",
+  "en": "Today"
+ },
+ "booking.closedDay": {
+  "sk": "Zatvorené",
+  "en": "Closed"
+ },
+ "booking.fullyBooked": {
+  "sk": "Obsadené",
+  "en": "Fully booked"
+ },
+ "booking.legendAvailable": {
+  "sk": "Voľné",
+  "en": "Available"
+ },
+ "booking.legendUnavailable": {
+  "sk": "Obsadené",
+  "en": "Unavailable"
+ },
+ "booking.legendSelected": {
+  "sk": "Vybrané",
+  "en": "Selected"
+ },
+ "booking.prevMonth": {
+  "sk": "Predchádzajúci mesiac",
+  "en": "Previous month"
+ },
+ "booking.nextMonth": {
+  "sk": "Nasledujúci mesiac",
+  "en": "Next month"
+ },
+ "booking.calendarLabel": {
+  "sk": "Kalendár, {month}",
+  "en": "Calendar, {month}"
+ },
+ "booking.dayLabel": {
+  "sk": "{date} — {status}",
+  "en": "{date} — {status}"
+ },
+ "booking.dayAvailable": {
+  "sk": "voľný termín",
+  "en": "available"
+ },
+ "booking.dayUnavailable": {
+  "sk": "bez voľných termínov",
+  "en": "no available times"
+ },
+ "booking.dayFull": {
+  "sk": "obsadené",
+  "en": "fully booked"
+ },
+ "booking.dayClosed": {
+  "sk": "zatvorené",
+  "en": "closed"
+ },
+ "booking.dayPast": {
+  "sk": "minulý dátum",
+  "en": "past date"
+ },
+ "booking.daySelected": {
+  "sk": "vybrané",
+  "en": "selected"
+ },
+ "booking.dayToday": {
+  "sk": "dnes",
+  "en": "today"
+ },
+ "booking.detailsTitle": {
+  "sk": "Vaše údaje",
+  "en": "Your details"
+ },
+ "booking.fieldName": {
+  "sk": "Meno a priezvisko",
+  "en": "Full name"
+ },
+ "booking.fieldEmail": {
+  "sk": "E-mail",
+  "en": "Email"
+ },
+ "booking.fieldPhone": {
+  "sk": "Telefónne číslo",
+  "en": "Phone number"
+ },
+ "booking.fieldNote": {
+  "sk": "Poznámka (nepovinné)",
+  "en": "Additional note (optional)"
+ },
+ "booking.phName": {
+  "sk": "Napríklad Ján Novák",
+  "en": "For example John Smith"
+ },
+ "booking.phEmail": {
+  "sk": "napriklad@email.com",
+  "en": "example@email.com"
+ },
+ "booking.phPhone": {
+  "sk": "+421 900 000 000",
+  "en": "+44 7700 900000"
+ },
+ "booking.phNote": {
+  "sk": "Niečo, čo by sme mali vedieť?",
+  "en": "Anything we should know?"
+ },
+ "booking.noteCounter": {
+  "sk": "{n} z {max} znakov",
+  "en": "{n} of {max} characters"
+ },
+ "booking.consentLabel": {
+  "sk": "Súhlasím so spracovaním mojich osobných údajov podľa zásad ochrany osobných údajov.",
+  "en": "I agree to the processing of my personal data according to the Privacy Policy."
+ },
+ "booking.consentLink": {
+  "sk": "zásad ochrany osobných údajov",
+  "en": "Privacy Policy"
+ },
+ "booking.errName": {
+  "sk": "Zadajte prosím meno a priezvisko (aspoň 2 znaky).",
+  "en": "Please enter your full name (at least 2 characters)."
+ },
+ "booking.errEmail": {
+  "sk": "Zadajte prosím platnú e-mailovú adresu.",
+  "en": "Please enter a valid email address."
+ },
+ "booking.errPhone": {
+  "sk": "Zadajte prosím platné telefónne číslo (aspoň 9 číslic).",
+  "en": "Please enter a valid phone number (at least 9 digits)."
+ },
+ "booking.errConsent": {
+  "sk": "Bez súhlasu so spracovaním údajov nie je možné rezerváciu potvrdiť.",
+  "en": "We cannot confirm the booking without your consent to data processing."
+ },
+ "booking.errNote": {
+  "sk": "Poznámka je príliš dlhá (maximálne {max} znakov).",
+  "en": "Your note is too long (maximum {max} characters)."
+ },
+ "booking.errService": {
+  "sk": "Vyberte prosím službu.",
+  "en": "Please select a service."
+ },
+ "booking.errDate": {
+  "sk": "Vyberte prosím dátum.",
+  "en": "Please select a date."
+ },
+ "booking.errTime": {
+  "sk": "Vyberte prosím čas.",
+  "en": "Please select a time."
+ },
+ "booking.errSummary": {
+  "sk": "Pred pokračovaním doplňte chýbajúce údaje.",
+  "en": "Please complete the missing details before continuing."
+ },
+ "booking.summaryTitle": {
+  "sk": "Súhrn rezervácie",
+  "en": "Booking summary"
+ },
+ "booking.summaryService": {
+  "sk": "Služba",
+  "en": "Service"
+ },
+ "booking.summaryDate": {
+  "sk": "Dátum",
+  "en": "Date"
+ },
+ "booking.summaryTime": {
+  "sk": "Čas",
+  "en": "Time"
+ },
+ "booking.summaryCustomer": {
+  "sk": "Klient",
+  "en": "Customer"
+ },
+ "booking.summaryEmail": {
+  "sk": "E-mail",
+  "en": "Email"
+ },
+ "booking.summaryPhone": {
+  "sk": "Telefón",
+  "en": "Phone"
+ },
+ "booking.summaryNote": {
+  "sk": "Poznámka",
+  "en": "Note"
+ },
+ "booking.summaryDuration": {
+  "sk": "Trvanie",
+  "en": "Duration"
+ },
+ "booking.summaryPrice": {
+  "sk": "Cena",
+  "en": "Price"
+ },
+ "booking.successTitle": {
+  "sk": "Rezervácia",
+  "en": "Booking request"
+ },
+ "booking.successThanks": {
+  "sk": "Ďakujeme. Vaša požiadavka na rezerváciu bola pripravená.",
+  "en": "Thank you. Your booking request has been prepared."
+ },
+ "booking.demoDisclaimer": {
+  "sk": "Toto je demo rezervačný systém. Skutočná rezervácia nebola vytvorená.",
+  "en": "This is a demo booking system. No real appointment has been created."
+ },
+ "booking.demoNote": {
+  "sk": "Formulár neodošle žiadne údaje a nikde ich neukladá — beží celý vo vašom prehliadači. Kód je pripravený na napojenie skutočného rezervačného systému.",
+  "en": "The form sends no data anywhere and stores nothing — it runs entirely in your browser. The code is prepared for a real booking backend to be added later."
+ },
+ "booking.newBooking": {
+  "sk": "Nová rezervácia",
+  "en": "New booking"
+ },
+ "booking.submitting": {
+  "sk": "Odosielam…",
+  "en": "Submitting…"
+ },
+ "booking.placeholderValue": {
+  "sk": "—",
+  "en": "—"
+ },
+ "contact.eyebrow": {
+  "sk": "Kontakt",
+  "en": "Contact"
+ },
+ "contact.title": {
+  "sk": "Zastavte sa",
+  "en": "Come by"
+ },
+ "contact.intro": {
+  "sk": "Najjednoduchšie je rezervovať sa online. Ak potrebujete niečo vyriešiť, sme tu pre vás.",
+  "en": "The easiest way is to book online. If you need to sort something out, we're here."
+ },
+ "contact.locationLabel": {
+  "sk": "Adresa",
+  "en": "Location"
+ },
+ "contact.phoneLabel": {
+  "sk": "Telefón",
+  "en": "Phone"
+ },
+ "contact.emailLabel": {
+  "sk": "E-mail",
+  "en": "Email"
+ },
+ "contact.hoursLabel": {
+  "sk": "Otváracie hodiny",
+  "en": "Opening hours"
+ },
+ "contact.socialLabel": {
+  "sk": "Sledujte nás",
+  "en": "Follow us"
+ },
+ "contact.bookCta": {
+  "sk": "Objednať sa",
+  "en": "Book an appointment"
+ },
+ "contact.placeholderNote": {
+  "sk": "Údaje v hranatých zátvorkách sú zástupné a pred spustením ich doplní prevádzkovateľ.",
+  "en": "Details shown in square brackets are placeholders to be filled in by the operator before launch."
+ },
+ "contact.callNow": {
+  "sk": "Zavolať",
+  "en": "Call now"
+ },
+ "contact.writeEmail": {
+  "sk": "Napísať e-mail",
+  "en": "Send an email"
+ },
+ "location.eyebrow": {
+  "sk": "Nájdete nás",
+  "en": "Find us"
+ },
+ "location.title": {
+  "sk": "Kde nás nájdete",
+  "en": "Where to find us"
+ },
+ "location.intro": {
+  "sk": "Presnú adresu a mapu doplní prevádzkovateľ pred spustením.",
+  "en": "The exact address and map will be added by the operator before launch."
+ },
+ "location.mapPlaceholder": {
+  "sk": "Miesto pre mapu",
+  "en": "Map placeholder"
+ },
+ "location.mapNote": {
+  "sk": "Sem vložte Google Maps embed. Odporúčame načítať mapu až po kliknutí, pretože Google Maps nastavuje vlastné cookies.",
+  "en": "Insert the Google Maps embed here. We recommend loading the map only after a click, because Google Maps sets its own cookies."
+ },
+ "location.openInMaps": {
+  "sk": "Otvoriť v Google Maps",
+  "en": "Open in Google Maps"
+ },
+ "footer.statement": {
+  "sk": "Moderný barber shop zameraný na precízne strihy, čisté fade strihy a klasické barber techniky.",
+  "en": "A modern barber shop focused on precision cuts, clean fades and classic barbering techniques."
+ },
+ "footer.navTitle": {
+  "sk": "Navigácia",
+  "en": "Navigation"
+ },
+ "footer.contactTitle": {
+  "sk": "Kontakt",
+  "en": "Contact"
+ },
+ "footer.followTitle": {
+  "sk": "Sledujte nás",
+  "en": "Follow"
+ },
+ "footer.legalTitle": {
+  "sk": "Právne informácie",
+  "en": "Legal"
+ },
+ "footer.rights": {
+  "sk": "© {year} Marek Cuts. Všetky práva vyhradené.",
+  "en": "© {year} Marek Cuts. All rights reserved."
+ },
+ "footer.cookieSettings": {
+  "sk": "Nastavenia cookies",
+  "en": "Cookie settings"
+ },
+ "footer.legalNote": {
+  "sk": "Právne dokumenty sú šablóny a pred spustením ich musí skontrolovať a upraviť prevádzkovateľ.",
+  "en": "Legal documents are templates and must be reviewed and customised by the operator before launch."
+ },
+ "legal.privacy": {
+  "sk": "Ochrana osobných údajov",
+  "en": "Privacy Policy"
+ },
+ "legal.gdpr": {
+  "sk": "GDPR / Spracovanie osobných údajov",
+  "en": "GDPR / Personal Data Processing"
+ },
+ "legal.cookies": {
+  "sk": "Zásady používania cookies",
+  "en": "Cookie Policy"
+ },
+ "legal.terms": {
+  "sk": "Podmienky rezervácie",
+  "en": "Booking Terms & Conditions"
+ },
+ "legal.backHome": {
+  "sk": "Späť na hlavnú stránku",
+  "en": "Back to home"
+ },
+ "legal.lastUpdated": {
+  "sk": "Posledná aktualizácia: {date}",
+  "en": "Last updated: {date}"
+ },
+ "legal.operatorNotice": {
+  "sk": "Toto je šablóna právneho dokumentu pripravená ako východiskový bod. Pred zverejnením ju musí skontrolovať a upraviť prevádzkovateľ (ideálne s právnym poradcom). Zverejnenie tejto stránky samo o sebe nezaručuje právnu súladnosť.",
+  "en": "This is a legal template prepared as a starting point. It must be reviewed and customised by the operator (ideally with legal advice) before publication. Publishing this page does not by itself guarantee legal compliance."
+ },
+ "legal.operatorTitle": {
+  "sk": "Prevádzkovateľ",
+  "en": "Operator"
+ },
+ "legal.legalName": {
+  "sk": "Obchodné meno",
+  "en": "Legal name"
+ },
+ "legal.legalAddress": {
+  "sk": "Sídlo",
+  "en": "Address"
+ },
+ "legal.companyId": {
+  "sk": "IČO",
+  "en": "Company ID"
+ },
+ "legal.email": {
+  "sk": "E-mail",
+  "en": "Email"
+ },
+ "legal.phone": {
+  "sk": "Telefón",
+  "en": "Phone"
+ },
+ "legal.onThisPage": {
+  "sk": "Na tejto stránke",
+  "en": "On this page"
+ },
+ "legal.pageSuffix": {
+  "sk": "Právne informácie",
+  "en": "Legal"
+ },
+ "consent.bannerTitle": {
+  "sk": "Používame cookies",
+  "en": "We use cookies"
+ },
+ "consent.bannerText": {
+  "sk": "Nevyhnutné cookies potrebujeme na chod stránky. Ostatné použijeme len vtedy, ak s tým budete súhlasiť.",
+  "en": "We need essential cookies for the site to work. The others are used only if you agree."
+ },
+ "consent.accept": {
+  "sk": "Prijať všetky",
+  "en": "Accept all"
+ },
+ "consent.reject": {
+  "sk": "Odmietnuť",
+  "en": "Reject"
+ },
+ "consent.settings": {
+  "sk": "Nastavenia",
+  "en": "Settings"
+ },
+ "consent.modalTitle": {
+  "sk": "Nastavenia cookies",
+  "en": "Cookie settings"
+ },
+ "consent.modalIntro": {
+  "sk": "Vyberte, ktoré kategórie cookies môžeme používať. Svoj výber môžete kedykoľvek zmeniť v pätičke stránky.",
+  "en": "Choose which categories of cookies we may use. You can change your choice at any time from the site footer."
+ },
+ "consent.save": {
+  "sk": "Uložiť nastavenia",
+  "en": "Save settings"
+ },
+ "consent.close": {
+  "sk": "Zavrieť",
+  "en": "Close"
+ },
+ "consent.necessary": {
+  "sk": "Nevyhnutné",
+  "en": "Essential"
+ },
+ "consent.necessaryText": {
+  "sk": "Zabezpečujú základné fungovanie stránky, napríklad zapamätanie zvoleného jazyka a tohto súhlasu. Nemožno ich vypnúť.",
+  "en": "They keep the site working, for example remembering your chosen language and this consent. They cannot be switched off."
+ },
+ "consent.analytics": {
+  "sk": "Analytické",
+  "en": "Analytics"
+ },
+ "consent.analyticsText": {
+  "sk": "Pomáhajú pochopiť, ako sa stránka používa. Na tejto stránke nie sú v súčasnosti nasadené žiadne analytické nástroje.",
+  "en": "They help us understand how the site is used. No analytics tool is currently deployed on this site."
+ },
+ "consent.marketing": {
+  "sk": "Marketingové",
+  "en": "Marketing"
+ },
+ "consent.marketingText": {
+  "sk": "Používajú sa na zobrazovanie relevantnej reklamy. Na tejto stránke nie sú v súčasnosti nasadené.",
+  "en": "Used to show relevant advertising. None are currently deployed on this site."
+ },
+ "consent.alwaysOn": {
+  "sk": "Vždy aktívne",
+  "en": "Always on"
+ },
+ "consent.on": {
+  "sk": "Zapnuté",
+  "en": "On"
+ },
+ "consent.off": {
+  "sk": "Vypnuté",
+  "en": "Off"
+ },
+ "consent.policyLink": {
+  "sk": "Zásady používania cookies",
+  "en": "Cookie Policy"
+ },
+ "consent.savedNote": {
+  "sk": "Vaše nastavenie bolo uložené v tomto prehliadači.",
+  "en": "Your choice has been saved in this browser."
+ },
+ "a11y.skipLink": {
+  "sk": "Preskočiť na obsah",
+  "en": "Skip to content"
+ },
+ "a11y.mainNav": {
+  "sk": "Hlavná navigácia",
+  "en": "Main navigation"
+ },
+ "a11y.breadcrumb": {
+  "sk": "Omrvinková navigácia",
+  "en": "Breadcrumb"
+ },
+ "a11y.backToTop": {
+  "sk": "Späť nahor",
+  "en": "Back to top"
+ },
+ "a11y.socialPlaceholder": {
+  "sk": "Odkaz je zástupný — doplňte adresu profilu.",
+  "en": "This link is a placeholder — add your profile URL."
+ },
+ "a11y.required": {
+  "sk": "povinné",
+  "en": "required"
+ },
+ "a11y.logoAlt": {
+  "sk": "Marek Cuts — logo barber shopu",
+  "en": "Marek Cuts — barber shop logo"
+ },
+ "seo.title": {
+  "sk": "Marek Cuts | Moderný barber shop",
+  "en": "Marek Cuts | Modern Barber Shop"
+ },
+ "seo.description": {
+  "sk": "Moderný barber shop zameraný na precízne strihy, fade strihy, úpravu brady a individuálny štýl.",
+  "en": "Modern barber shop focused on precision haircuts, fades, beard grooming and individual style."
+ },
+ "seo.ogTitle": {
+  "sk": "Marek Cuts | Moderný barber shop",
+  "en": "Marek Cuts | Modern Barber Shop"
+ },
+ "seo.ogDescription": {
+  "sk": "Precíznosť. Štýl. Sebavedomie. Precízne strihy, čisté fade strihy a klasické barber techniky.",
+  "en": "Precision. Style. Confidence. Precision cuts, clean fades and classic barbering techniques."
+ },
+ "seo.locale": {
+  "sk": "sk_SK",
+  "en": "en_GB"
+ },
+ "contact.closed": {
+  "sk": "Zatvorené",
+  "en": "Closed"
+ },
+ "nav.homeLink": {
+  "sk": "Marek Cuts — na úvodnú stránku",
+  "en": "Marek Cuts — go to homepage"
+ }
+}

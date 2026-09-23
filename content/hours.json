@@ -1,0 +1,49 @@
+{
+  "_comment": "OPENING HOURS AS DISPLAYED ON THE SITE. These ship as XX:XX placeholders on purpose - the real opening hours are business data that must not be invented. 'closed': true renders the localised 'Closed' label.",
+  "displayPlaceholder": "XX:XX",
+  "note": "Independent of availability.json (which holds DEMO booking slots). After launch, mirror your real hours into availability.json so the calendar matches.",
+  "days": [
+    {
+      "key": "mon",
+      "sk": "Pondelok",
+      "en": "Monday",
+      "closed": false
+    },
+    {
+      "key": "tue",
+      "sk": "Utorok",
+      "en": "Tuesday",
+      "closed": false
+    },
+    {
+      "key": "wed",
+      "sk": "Streda",
+      "en": "Wednesday",
+      "closed": false
+    },
+    {
+      "key": "thu",
+      "sk": "Štvrtok",
+      "en": "Thursday",
+      "closed": false
+    },
+    {
+      "key": "fri",
+      "sk": "Piatok",
+      "en": "Friday",
+      "closed": false
+    },
+    {
+      "key": "sat",
+      "sk": "Sobota",
+      "en": "Saturday",
+      "closed": false
+    },
+    {
+      "key": "sun",
+      "sk": "Nedeľa",
+      "en": "Sunday",
+      "closed": true
+    }
+  ]
+}
